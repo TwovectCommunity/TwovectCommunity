@@ -1,16 +1,19 @@
-## Hi there 👋
+# TWOVECT • ツベクト • 튜벢터
+### \- THE FUTURE IS OPEN -
+:mountain_snow: :earth_africa: :globe_with_meridians: :technologist: 
 
-<!--
-**TwovectCommunity/TwovectCommunity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At Twovect, we believe the global community-based productivity, creativity, and inspiration provided by free and open-source software (FOSS) will be the driving force of future innovations. We hope to break down the barriers between developers and users, creating shared software that is truly for the better of humanity.
 
-Here are some ideas to get you started:
+What we ARE:
+:white_check_mark: A high-caliber cross-platform rendering and graphics system
+:white_check_mark: Free and open-source, **always**.
+:white_check_mark: An efficient community of dedicated contributors
+:white_check_mark: Open to suggestions from anyone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What we AREN'T:
+:x: For-profit, now or in the future
+:x: An attempt to recreate or replace existing projects without originality
+:x: Faint-hearted, even in the face of large projects
+:x: Secretive, dogmatic, or makers of false promises
+
+\- The Twovect Worldwide Community, 2024
